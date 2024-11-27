@@ -1,0 +1,3 @@
+public enum CommandWord {
+    ADD, DEL, FORMAT_FIX, FORMAT_RAW, INDEX, REPLACE, DUMMY, PRINT, EXIT
+}
